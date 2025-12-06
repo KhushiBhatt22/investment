@@ -1,0 +1,1 @@
+General Description: The program will prompt the user to enter customer data such as number, name, initial deposit, number of years and type of savings. The program will save these data in the database. The program will also have the capability to project the compounded interest for each savings data
